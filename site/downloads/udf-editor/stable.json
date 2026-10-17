@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "version": "1.6.0",
+  "publishedAt": "2026-10-10T12:52:32.212Z",
+  "releaseNotes": "UYAP Asistanı ile belge ve EYP eki açma, belgedeki karar künyelerini bulma ve kopyalama. Uygulama içi güncelleme bildirimi ve doğrulanmış kurulum paketi indirme. macOS bellek ölçümü düzeltmesi.",
+  "artifacts": [
+    {
+      "platform": "win32",
+      "arch": "x64",
+      "filename": "Legaluga-UDF-Editor-1.6.0-Windows-x64-Setup.exe",
+      "url": "https://github.com/hasanimer/legaluga-udf-editor-releases/releases/download/v1.6.0/Legaluga-UDF-Editor-1.6.0-Windows-x64-Setup.exe",
+      "sha256": "bcd22985f08cf54cf31b9390a413d4b34fbd56405114bc820dcd7b99718fe766",
+      "bytes": 122757590
+    },
+    {
+      "platform": "darwin",
+      "arch": "arm64",
+      "filename": "Legaluga-UDF-Editor-1.6.0-mac-arm64.dmg",
+      "url": "https://github.com/hasanimer/legaluga-udf-editor-releases/releases/download/v1.6.0/Legaluga-UDF-Editor-1.6.0-mac-arm64.dmg",
+      "sha256": "816c1cd57d0f741c3a65dd8a03afa999155a2d7549150284fce0b8f0ed9c6144",
+      "bytes": 142067073
+    },
+    {
+      "platform": "darwin",
+      "arch": "x64",
+      "filename": "Legaluga-UDF-Editor-1.6.0-mac-x64.dmg",
+      "url": "https://github.com/hasanimer/legaluga-udf-editor-releases/releases/download/v1.6.0/Legaluga-UDF-Editor-1.6.0-mac-x64.dmg",
+      "sha256": "3e56347cab33c9509471c55e3f2ea4c66c5b9f50d4c5cf3f81d6d01970234844",
+      "bytes": 145852559
+    },
+    {
+      "platform": "linux",
+      "arch": "x64",
+      "filename": "Legaluga-UDF-Editor-1.6.0-linux-amd64.deb",
+      "url": "https://github.com/hasanimer/legaluga-udf-editor-releases/releases/download/v1.6.0/Legaluga-UDF-Editor-1.6.0-linux-amd64.deb",
+      "sha256": "254aa6896f7b04ad65ff622a746916b4a98b4d935e4d2a1acbb19bfc8b74cdbe",
+      "bytes": 109796136
+    },
+    {
+      "platform": "linux",
+      "arch": "arm64",
+      "filename": "Legaluga-UDF-Editor-1.6.0-linux-arm64.deb",
+      "url": "https://github.com/hasanimer/legaluga-udf-editor-releases/releases/download/v1.6.0/Legaluga-UDF-Editor-1.6.0-linux-arm64.deb",
+      "sha256": "cd688ecb3b31d24b99b2d75cda043c5e2e36cd38b36978753d9a7d344f272b50",
+      "bytes": 104948456
+    }
+  ]
+}

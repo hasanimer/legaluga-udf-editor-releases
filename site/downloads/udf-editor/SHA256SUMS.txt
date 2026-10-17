@@ -1,0 +1,5 @@
+bcd22985f08cf54cf31b9390a413d4b34fbd56405114bc820dcd7b99718fe766  Legaluga-UDF-Editor-1.6.0-Windows-x64-Setup.exe
+816c1cd57d0f741c3a65dd8a03afa999155a2d7549150284fce0b8f0ed9c6144  Legaluga-UDF-Editor-1.6.0-mac-arm64.dmg
+3e56347cab33c9509471c55e3f2ea4c66c5b9f50d4c5cf3f81d6d01970234844  Legaluga-UDF-Editor-1.6.0-mac-x64.dmg
+254aa6896f7b04ad65ff622a746916b4a98b4d935e4d2a1acbb19bfc8b74cdbe  Legaluga-UDF-Editor-1.6.0-linux-amd64.deb
+cd688ecb3b31d24b99b2d75cda043c5e2e36cd38b36978753d9a7d344f272b50  Legaluga-UDF-Editor-1.6.0-linux-arm64.deb

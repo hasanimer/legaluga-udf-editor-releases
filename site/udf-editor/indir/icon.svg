@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Legaluga işareti (components/ui/logo.tsx LogoMark ile aynı geometri), marka rengi zemin. -->
+  <rect width="32" height="32" rx="7" fill="#0f817e"/>
+  <g transform="translate(0.08 1.7) scale(1.3)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 4.5v13h10.5"/>
+    <path d="M7 11l7-4"/>
+  </g>
+  <g transform="translate(0.08 1.7) scale(1.3)" fill="#ffffff">
+    <circle cx="7" cy="4.5" r="2"/>
+    <circle cx="14" cy="7" r="2"/>
+    <circle cx="17.5" cy="17.5" r="2"/>
+  </g>
+</svg>
